@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+.venv311/
+venv/
+ENV/
+
+# Project Specific
+stubs/
+input_videos/
+output_videos/
+runs/
+*.pt
+*.pkl
+yolo_inference/
+.ipynb_checkpoints/
+*.jpg
+*.png
+*.mp4
+development_and_analysis/
+desktop.ini
